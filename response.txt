@@ -1,0 +1,1 @@
+﻿{"status":"OK","message":"","countryCode":"GB","zoneName":"Europe\/London","abbreviation":"GMT","gmtOffset":"0","dst":"0","timestamp":1487497824}
